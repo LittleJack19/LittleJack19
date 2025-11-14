@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LittleJack19, I'm a frencnh engineer specialized in CCTV and Acces Control System
+- 👋 Hi, I’m @LittleJack19, I'm a french engineer specialized in CCTV and Acces Control System
 - 👀 I’m interested in IT in general, one of my hobby is FPV Drone and I activly follow project like EMUFlight and Betaflight.
 - 📫 How to reach me : Directly into GitHub
 
